@@ -1,6 +1,7 @@
 # Wolt Assignment
 
 The assignment implments Delivery Order Price Calculator (DOPC) capable of calculating the total price and price breakdown of a delivery order. It integrates with the Home Assignment API to fetch venue related data required to calculate the prices.
+_More details are available in the respective `README.md`._
 
 _Technologies_
 
@@ -27,7 +28,7 @@ To close both, run:
 docker compose down
 ```
 
-_More details are available in the respective `README.md`._
+
 
 ## Notes
 
